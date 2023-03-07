@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 💬 Let's connect and create something extraordinary together!
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/030/882/347/original/brent-lattery-gohanssb02flat.gif" width="200" height="200" />  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarangul&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://cdnb.artstation.com/p/assets/images/images/030/882/347/original/brent-lattery-gohanssb02flat.gif" width="200" height="200" />  
 
 
 ### Tech & Tools Preference
